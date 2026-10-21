@@ -1,4 +1,4 @@
-# Hi there, I'm Fathan 👋
+# Fathan Nur Hidayat 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0B1020,50:123B70,100:2563EB&text=JAVA%20DEVELOPER%20IN%20PROGRESS&fontColor=FFFFFF&fontSize=30&fontAlignY=50&animation=fadeIn" width="100%" alt="Dark blue developer banner"/>
@@ -17,6 +17,7 @@
 ## 💻 About Me
 
 🎓 Informatics Engineering student at State Polytechnic of Malang
+
 ☕ Currently learning Java programming  
 🧠 Interested in programming logic and problem-solving  
 🚀 Building my skills through coursework and small projects  
