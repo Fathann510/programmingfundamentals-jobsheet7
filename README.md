@@ -1,103 +1,82 @@
-# 💻 JOBSHEET 7 — LOOPS 1
+# Hi there, I'm Fathan 👋
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Topic-Loops-blue?style=for-the-badge" alt="Loops">
-  <img src="https://img.shields.io/badge/Status-Learning-success?style=for-the-badge" alt="Learning">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0B1020,50:123B70,100:2563EB&text=JAVA%20DEVELOPER%20IN%20PROGRESS&fontColor=FFFFFF&fontSize=30&fontAlignY=50&animation=fadeIn" width="100%" alt="Dark blue developer banner"/>
 </p>
 
 <p align="center">
-  <i>A Java programming assignment focused on loops and fundamental programming concepts.</i>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub Profile"/>
+  </a>
+  <img src="https://img.shields.io/badge/Java-Learning-2563EB?style=for-the-badge&logo=openjdk&logoColor=white" alt="Learning Java"/>
+  <img src="https://img.shields.io/badge/Focus-Problem%20Solving-1D4ED8?style=for-the-badge" alt="Problem Solving"/>
 </p>
 
 ---
 
-## 👨‍🎓 Student Information
+## 💻 About Me
 
-| Information | Details |
-|:---|:---|
-| **Name** | Fathan Nur Hidayat |
-| **NIM** | 264107020084 |
-| **Class** | TI_1I |
-| **Study Program** | Informatics Engineering |
-| **Job Sheet** | 7 |
-| **Topic** | Loops 1 |
+🎓 Informatics Engineering student at State Polytechnic of Malang
+☕ Currently learning Java programming  
+🧠 Interested in programming logic and problem-solving  
+🚀 Building my skills through coursework and small projects  
+
+> My goal is to become a better programmer by learning, practicing, and building projects one step at a time.
 
 ---
 
-## 🎯 Learning Objectives
-
-This assignment focuses on understanding and implementing loop structures in Java to execute repetitive tasks efficiently.
-
-- 🔁 Understand how loops work in Java.
-- 🧩 Apply loop structures to solve programming problems.
-- ⌨️ Process user input and display output.
-- 🧠 Develop logical thinking and problem-solving skills.
-
----
-
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Java-Programming%20Language-orange?logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-Editor-blue?logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/Git-Version%20Control-orange?logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=58A6FF" alt="Java"/>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=58A6FF" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=58A6FF" alt="Visual Studio Code"/>
 </p>
 
 ---
 
-## 📂 Project Structure
+## 📚 What I'm Learning
 
-```text
-JOBSHEET-7/
-├── README.md
-└── Loops/
-    └── Java source files
-```
-
-> Note: Adjust the folder and file names to match your actual repository.
+- ☕ Java fundamentals and variables
+- 🔀 Conditional statements (`if-else`, `switch`)
+- 🔁 Loops (`for`, `while`, `do-while`)
+- 🧩 Problem-solving and programming logic
+- 🌿 Git and GitHub version control
 
 ---
 
-## 💡 Topics Covered
+## 🚀 Featured Projects
 
-| Topic | Description |
-|:---|:---|
-| `for` loop | Repeats statements a specified number of times. |
-| `while` loop | Repeats statements while a condition is true. |
-| `do-while` loop | Executes statements at least once before checking the condition. |
-| Loop control | Manages the repetition of statements in a program. |
+| Project | Description | Technologies |
+|:--|:--|:--|
+| **SiakadFor12** | Student score evaluation and pass/fail results | Java |
+| **Jobsheet 7 — Loops 1** | Practice exercises using loop structures | Java |
 
-> Keep only the topics covered in your actual assignment.
-
----
-
-## 🖥️ Program Screenshots
-
-Add a screenshot of your Java program output below.
-
-<!-- Replace this path with your actual screenshot file. -->
-
-<p align="center">
-  <img src="screenshots/loops-output.png" alt="Java Program Output" width="600">
-</p>
-
-<p align="center">
-  <i>Figure 1. Java loops assignment output.</i>
+<p>
+  <a href="https://github.com/Fathann510/programmingfundamentals-jobsheet7">
+    <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  </a>
 </p>
 
 ---
 
-## 📚 Conclusion
+## 📊 GitHub Stats
 
-Through this assignment, I practice using loop structures in Java to perform repetitive operations and improve my understanding of programming logic. This exercise also helps me build a foundation for solving more complex programming problems.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fathann510&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=3B82F6" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fathann510&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" alt="Most used languages"/>
+</p>
+
+---
+
+## 🎯 My Goal
+
+To strengthen my programming fundamentals, complete more projects, and gradually develop the skills needed to build useful software.
 
 ---
 
 <p align="center">
-  <b>JOBSHEET 7 · LOOPS 1</b>
-  <br>
-  <i>Informatics Engineering | TI_1I</i>
-  <br><br>
-  Made with ☕ and Java
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,100:2563EB&height=100&section=footer" width="100%" alt="Blue footer banner"/>
+  <i>Learning every day. Improving one project at a time. 💙</i>
 </p>
