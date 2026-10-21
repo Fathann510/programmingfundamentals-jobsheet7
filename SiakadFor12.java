@@ -8,7 +8,7 @@ public class SiakadFor12{
         for(int i = 1; i <= 10; i++){
             System.out.print("Enter score for student " + i + ": ");
             score = sc.nextDouble();
-            if(score > highest){
+            if(score> highest){
                 highest = score;
             }
             if(score < lowest){
