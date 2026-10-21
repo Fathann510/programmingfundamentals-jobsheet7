@@ -14,8 +14,19 @@ public class SiakadFor12{
             if(score < lowest){
                 lowest = score;
             }
+            if(score < 0 || score > 100){
+                System.out.println("Invalid score. Please enter a score between 0 and 100.");
+                i--;
+            }
+            if(score >=60){
+                System.out.println("Student " + i + " passed.");
+            } else {
+                System.out.println("Student " + i + " failed.");
+            }
         }
         System.out.println("Highest score: " + highest);
         System.out.println("Lowest score: " + lowest);
+        
+        sc.close();
     }
 }
